@@ -8,8 +8,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | | |
 |---|---|---|---|---|
-| ![Cyborg tiger KDE Plasma 4K wallpaper](previews/cyborg-tiger-kde-plasma-4k-preview.jpg) | ![Honeycomb nebula KDE Plasma 4K wallpaper](previews/honeycomb-nebula-kde-plasma-4k-preview.jpg) | ![Bonsai tree 4K wallpaper](previews/bonsai-tree-4k-preview.jpg) | ![Cat gardener 4K wallpaper](previews/cat-gardener-4k-preview.jpg) | ![Giordano Bruno 4K wallpaper](previews/giordano-bruno-4k-preview.jpg) |
-| [`cyborg-tiger-kde-plasma-4k.png`](cyborg-tiger-kde-plasma-4k.png) | [`honeycomb-nebula-kde-plasma-4k.png`](honeycomb-nebula-kde-plasma-4k.png) | [`bonsai-tree-4k.png`](bonsai-tree-4k.png) | [`cat-gardener-4k.png`](cat-gardener-4k.png) | [`giordano-bruno-4k.png`](giordano-bruno-4k.png) |
+| ![Cyborg tiger KDE Plasma 4K wallpaper](previews/cyborg-tiger-kde-plasma-4k-preview.jpg) | ![Honeycomb nebula KDE Plasma 4K wallpaper](previews/honeycomb-nebula-kde-plasma-4k-preview.jpg) | ![Bonsai tree 4K wallpaper](previews/bonsai-tree-4k-preview.jpg) | ![Cat gardener 4K wallpaper](previews/cat-gardener-4k-preview.jpg) | ![Giordano Bruno 4K wallpaper](previews/giordano-bruno-4k-preview.jpg) | ![Steampunk Tux 4K wallpaper](previews/steampunk-tux-4k-preview.jpg) |
+| [`cyborg-tiger-kde-plasma-4k.png`](cyborg-tiger-kde-plasma-4k.png) | [`honeycomb-nebula-kde-plasma-4k.png`](honeycomb-nebula-kde-plasma-4k.png) | [`bonsai-tree-4k.png`](bonsai-tree-4k.png) | [`cat-gardener-4k.png`](cat-gardener-4k.png) | [`giordano-bruno-4k.png`](giordano-bruno-4k.png) | [`steampunk-tux-4k.png`](steampunk-tux-4k.png) |
 
 ## Wallpapers
 
@@ -59,6 +59,15 @@ and the stars — a nod to the cosmological ideas that led to his condemnation.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Steampunk Tux
+
+The Linux penguin mascot reimagined in full steampunk gear — top hat, goggles,
+leather harness — sitting in a brass-and-copper industrial cityscape.
+
+- File: `steampunk-tux-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -68,8 +77,9 @@ Plasma, GNOME, Windows, and macOS. No installation, no dependencies.
 
 kde wallpaper, kde plasma wallpaper, linux wallpaper, 4k wallpaper, desktop
 wallpaper, cyberpunk wallpaper, tiger wallpaper, nebula wallpaper, honeycomb
-wallpaper, bonsai wallpaper, cat wallpaper, historical wallpaper, free
-wallpaper, open source wallpaper
+wallpaper, bonsai wallpaper, cat wallpaper, historical wallpaper, steampunk
+wallpaper, tux wallpaper, linux penguin wallpaper, free wallpaper, open
+source wallpaper
 
 ## More from Agundur
 
