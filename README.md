@@ -8,13 +8,13 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Cyborg tiger KDE Plasma 4K wallpaper](previews/cyborg-tiger-kde-plasma-4k-preview.jpg) | ![Honeycomb nebula KDE Plasma 4K wallpaper](previews/honeycomb-nebula-kde-plasma-4k-preview.jpg) | ![Bonsai tree 4K wallpaper](previews/bonsai-tree-4k-preview.jpg) | ![Cat gardener 4K wallpaper](previews/cat-gardener-4k-preview.jpg) |
-| [`cyborg-tiger-kde-plasma-4k.png`](cyborg-tiger-kde-plasma-4k.png) | [`honeycomb-nebula-kde-plasma-4k.png`](honeycomb-nebula-kde-plasma-4k.png) | [`bonsai-tree-4k.png`](bonsai-tree-4k.png) | [`cat-gardener-4k.png`](cat-gardener-4k.png) |
+| ![Giordano Bruno 4K wallpaper](previews/giordano-bruno-4k-preview.jpg) | ![Honeycomb nebula KDE Plasma 4K wallpaper](previews/honeycomb-nebula-kde-plasma-4k-preview.jpg) | ![Bonsai tree 4K wallpaper](previews/bonsai-tree-4k-preview.jpg) | ![Cat gardener 4K wallpaper](previews/cat-gardener-4k-preview.jpg) |
+| [`giordano-bruno-4k.png`](giordano-bruno-4k.png) | [`honeycomb-nebula-kde-plasma-4k.png`](honeycomb-nebula-kde-plasma-4k.png) | [`bonsai-tree-4k.png`](bonsai-tree-4k.png) | [`cat-gardener-4k.png`](cat-gardener-4k.png) |
 
 | | | | |
 |---|---|---|---|
-| ![Giordano Bruno 4K wallpaper](previews/giordano-bruno-4k-preview.jpg) | ![Steampunk Tux 4K wallpaper](previews/steampunk-tux-4k-preview.jpg) | ![Anime Tux 4K wallpaper](previews/anime-tux-4k-preview.jpg) | |
-| [`giordano-bruno-4k.png`](giordano-bruno-4k.png) | [`steampunk-tux-4k.png`](steampunk-tux-4k.png) | [`anime-tux-4k.png`](anime-tux-4k.png) | |
+| ![Cyborg tiger KDE Plasma 4K wallpaper](previews/cyborg-tiger-kde-plasma-4k-preview.jpg) | ![Steampunk Tux 4K wallpaper](previews/steampunk-tux-4k-preview.jpg) | ![Anime Tux 4K wallpaper](previews/anime-tux-4k-preview.jpg) | |
+| [`cyborg-tiger-kde-plasma-4k.png`](cyborg-tiger-kde-plasma-4k.png) | [`steampunk-tux-4k.png`](steampunk-tux-4k.png) | [`anime-tux-4k.png`](anime-tux-4k.png) | |
 
 ## Wallpapers
 
