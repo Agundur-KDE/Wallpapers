@@ -13,8 +13,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Cyborg tiger KDE Plasma 4K wallpaper](previews/cyborg-tiger-kde-plasma-4k-preview.jpg) | ![Steampunk Tux 4K wallpaper](previews/steampunk-tux-4k-preview.jpg) | ![Anime Tux 4K wallpaper](previews/anime-tux-4k-preview.jpg) | |
-| [`cyborg-tiger-kde-plasma-4k.png`](cyborg-tiger-kde-plasma-4k.png) | [`steampunk-tux-4k.png`](steampunk-tux-4k.png) | [`anime-tux-4k.png`](anime-tux-4k.png) | |
+| ![Cyborg tiger KDE Plasma 4K wallpaper](previews/cyborg-tiger-kde-plasma-4k-preview.jpg) | ![Steampunk Tux 4K wallpaper](previews/steampunk-tux-4k-preview.jpg) | ![Anime Tux 4K wallpaper](previews/anime-tux-4k-preview.jpg) | ![Lava Tux KDE 4K wallpaper](previews/lava-tux-kde-plasma-4k-preview.jpg) |
+| [`cyborg-tiger-kde-plasma-4k.png`](cyborg-tiger-kde-plasma-4k.png) | [`steampunk-tux-4k.png`](steampunk-tux-4k.png) | [`anime-tux-4k.png`](anime-tux-4k.png) | [`lava-tux-kde-plasma-4k.png`](lava-tux-kde-plasma-4k.png) |
 
 ## Wallpapers
 
@@ -82,6 +82,16 @@ cursed-energy aura, city skyline in the background.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Lava Tux — KDE
+
+Tux planting a "K KDE" flag atop a hexagon-tiled volcanic outcrop, lava
+flowing between the tiles, a ruined sci-fi skyline and erupting volcanoes
+in the distance.
+
+- File: `lava-tux-kde-plasma-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -92,8 +102,9 @@ Plasma, GNOME, Windows, and macOS. No installation, no dependencies.
 kde wallpaper, kde plasma wallpaper, linux wallpaper, 4k wallpaper, desktop
 wallpaper, cyberpunk wallpaper, tiger wallpaper, nebula wallpaper, honeycomb
 wallpaper, bonsai wallpaper, cat wallpaper, historical wallpaper, steampunk
-wallpaper, tux wallpaper, linux penguin wallpaper, anime wallpaper, free
-wallpaper, open source wallpaper
+wallpaper, tux wallpaper, linux penguin wallpaper, anime wallpaper, lava
+wallpaper, volcano wallpaper, hexagon wallpaper, free wallpaper, open source
+wallpaper
 
 ## More from Agundur
 
