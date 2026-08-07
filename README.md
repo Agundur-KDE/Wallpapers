@@ -16,6 +16,11 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 | ![Cyborg tiger KDE Plasma 4K wallpaper](previews/cyborg-tiger-kde-plasma-4k-preview.jpg) | ![Steampunk Tux 4K wallpaper](previews/steampunk-tux-4k-preview.jpg) | ![Anime Tux 4K wallpaper](previews/anime-tux-4k-preview.jpg) | ![Lava Tux KDE 4K wallpaper](previews/lava-tux-kde-plasma-4k-preview.jpg) |
 | [`cyborg-tiger-kde-plasma-4k.png`](cyborg-tiger-kde-plasma-4k.png) | [`steampunk-tux-4k.png`](steampunk-tux-4k.png) | [`anime-tux-4k.png`](anime-tux-4k.png) | [`lava-tux-kde-plasma-4k.png`](lava-tux-kde-plasma-4k.png) |
 
+| | | | |
+|---|---|---|---|
+| ![KDE Dojo 4K wallpaper](previews/kde-dojo-4k-preview.jpg) | | | |
+| [`kde-dojo-4k.png`](kde-dojo-4k.png) | | | |
+
 ## Wallpapers
 
 ### Cyborg Tiger — KDE Plasma
@@ -92,6 +97,16 @@ in the distance.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### KDE Dojo
+
+Tux in a black karate gi, mid-stance in a traditional Japanese dojo, with a
+"KDE" sign above the entrance and Chinese calligraphy scrolls reading "free
+software" (自由軟體) and "open collaboration" (開放協作) on the walls.
+
+- File: `kde-dojo-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -103,8 +118,8 @@ kde wallpaper, kde plasma wallpaper, linux wallpaper, 4k wallpaper, desktop
 wallpaper, cyberpunk wallpaper, tiger wallpaper, nebula wallpaper, honeycomb
 wallpaper, bonsai wallpaper, cat wallpaper, historical wallpaper, steampunk
 wallpaper, tux wallpaper, linux penguin wallpaper, anime wallpaper, lava
-wallpaper, volcano wallpaper, hexagon wallpaper, free wallpaper, open source
-wallpaper
+wallpaper, volcano wallpaper, hexagon wallpaper, dojo wallpaper, karate
+wallpaper, free wallpaper, open source wallpaper
 
 ## More from Agundur
 
