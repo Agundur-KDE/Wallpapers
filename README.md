@@ -18,8 +18,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![KDE Dojo 4K wallpaper](previews/kde-dojo-4k-preview.jpg) | | | |
-| [`kde-dojo-4k.png`](kde-dojo-4k.png) | | | |
+| ![KDE Dojo 4K wallpaper](previews/kde-dojo-4k-preview.jpg) | ![Mortal Tux KDE Plasma 4K wallpaper](previews/mortal-tux-kde-plasma-4k-preview.jpg) | | |
+| [`kde-dojo-4k.png`](kde-dojo-4k.png) | [`mortal-tux-kde-plasma-4k.png`](mortal-tux-kde-plasma-4k.png) | | |
 
 ## Wallpapers
 
@@ -107,6 +107,15 @@ software" (自由軟體) and "open collaboration" (開放協作) on the walls.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Mortal Tux — KDE Plasma
+
+A bronze memorial medallion bearing the Tux emblem, engraved "KDE Plasma Tux —
+Frei. Offen. Stabil." on a weathered metal plaque.
+
+- File: `mortal-tux-kde-plasma-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -119,7 +128,8 @@ wallpaper, cyberpunk wallpaper, tiger wallpaper, nebula wallpaper, honeycomb
 wallpaper, bonsai wallpaper, cat wallpaper, historical wallpaper, steampunk
 wallpaper, tux wallpaper, linux penguin wallpaper, anime wallpaper, lava
 wallpaper, volcano wallpaper, hexagon wallpaper, dojo wallpaper, karate
-wallpaper, free wallpaper, open source wallpaper
+wallpaper, free wallpaper, open source wallpaper, medallion wallpaper,
+bronze wallpaper, coin wallpaper
 
 ## More from Agundur
 
