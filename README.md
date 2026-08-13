@@ -21,6 +21,11 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 | ![KDE Dojo 4K wallpaper](previews/kde-dojo-4k-preview.jpg) | ![Mortal Tux KDE Plasma 4K wallpaper](previews/mortal-tux-kde-plasma-4k-preview.jpg) | ![KDE Neon Rain 4K wallpaper](previews/kde-neon-rain-4k-preview.jpg) | ![Floating Islands 4K wallpaper](previews/floating-islands-4k-preview.jpg) |
 | [`kde-dojo-4k.png`](kde-dojo-4k.png) | [`mortal-tux-kde-plasma-4k.png`](mortal-tux-kde-plasma-4k.png) | [`kde-neon-rain-4k.png`](kde-neon-rain-4k.png) | [`floating-islands-4k.png`](floating-islands-4k.png) |
 
+| | | | |
+|---|---|---|---|
+| ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | | | |
+| [`tux-mug-4k.png`](tux-mug-4k.png) | | | |
+
 ## Wallpapers
 
 ### Cyborg Tiger — KDE Plasma
@@ -135,6 +140,16 @@ islands in the distance.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Tux Mug
+
+A cozy morning coffee moment — a photo of someone warming their hands on a
+mug printed with the Tux penguin, sunlight streaming through a wooden window
+frame.
+
+- File: `tux-mug-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -149,7 +164,8 @@ wallpaper, tux wallpaper, linux penguin wallpaper, anime wallpaper, lava
 wallpaper, volcano wallpaper, hexagon wallpaper, dojo wallpaper, karate
 wallpaper, free wallpaper, open source wallpaper, medallion wallpaper,
 bronze wallpaper, coin wallpaper, neon wallpaper, rain wallpaper, cyberpunk
-street wallpaper, floating islands wallpaper, fantasy wallpaper
+street wallpaper, floating islands wallpaper, fantasy wallpaper, coffee
+wallpaper, cozy wallpaper, mug wallpaper
 
 ## More from Agundur
 
