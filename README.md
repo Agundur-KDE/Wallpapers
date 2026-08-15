@@ -23,8 +23,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | | | |
-| [`tux-mug-4k.png`](tux-mug-4k.png) | | | |
+| ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | ![Windows is Broken 4K wallpaper](previews/windows-is-broken-4k-preview.jpg) | | |
+| [`tux-mug-4k.png`](tux-mug-4k.png) | [`windows-is-broken-4k.png`](windows-is-broken-4k.png) | | |
 
 ## Wallpapers
 
@@ -150,6 +150,16 @@ frame.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Windows is Broken
+
+Tux bursting through a shattered glass pane — a pun on "Windows", with an
+`agundur.de` watermark in Cantarell (closest free match to Segoe UI) top
+right, mimicking a Windows desktop watermark.
+
+- File: `windows-is-broken-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -165,7 +175,8 @@ wallpaper, volcano wallpaper, hexagon wallpaper, dojo wallpaper, karate
 wallpaper, free wallpaper, open source wallpaper, medallion wallpaper,
 bronze wallpaper, coin wallpaper, neon wallpaper, rain wallpaper, cyberpunk
 street wallpaper, floating islands wallpaper, fantasy wallpaper, coffee
-wallpaper, cozy wallpaper, mug wallpaper
+wallpaper, cozy wallpaper, mug wallpaper, broken glass wallpaper, shattered
+screen wallpaper, tux vs windows wallpaper, funny linux wallpaper
 
 ## More from Agundur
 
