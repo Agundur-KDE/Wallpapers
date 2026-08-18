@@ -23,8 +23,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | ![Windows is Broken 4K wallpaper](previews/windows-is-broken-4k-preview.jpg) | | |
-| [`tux-mug-4k.png`](tux-mug-4k.png) | [`windows-is-broken-4k.png`](windows-is-broken-4k.png) | | |
+| ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | ![Windows is Broken 4K wallpaper](previews/windows-is-broken-4k-preview.jpg) | ![Excalitux 4K wallpaper](previews/excalitux-4k-preview.jpg) | |
+| [`tux-mug-4k.png`](tux-mug-4k.png) | [`windows-is-broken-4k.png`](windows-is-broken-4k.png) | [`excalitux-4k.png`](excalitux-4k.png) | |
 
 ## Wallpapers
 
@@ -160,6 +160,17 @@ right, mimicking a Windows desktop watermark.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Excalitux
+
+A monumental Tux carved as a dark-stone monolith beside a calm mist-covered
+lake at blue hour, a glowing KDE Plasma gear emblem set into its chest — a
+nod to the Lady of the Lake/Excalibur legend. `agundur.de` watermark in
+Cinzel, top right.
+
+- File: `excalitux-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -176,7 +187,9 @@ wallpaper, free wallpaper, open source wallpaper, medallion wallpaper,
 bronze wallpaper, coin wallpaper, neon wallpaper, rain wallpaper, cyberpunk
 street wallpaper, floating islands wallpaper, fantasy wallpaper, coffee
 wallpaper, cozy wallpaper, mug wallpaper, broken glass wallpaper, shattered
-screen wallpaper, tux vs windows wallpaper, funny linux wallpaper
+screen wallpaper, tux vs windows wallpaper, funny linux wallpaper, monolith
+wallpaper, lake wallpaper, fantasy wallpaper, arthurian wallpaper, excalibur
+wallpaper, blue hour wallpaper, minimalist wallpaper
 
 ## More from Agundur
 
