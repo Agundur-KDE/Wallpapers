@@ -23,8 +23,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | ![Windows is Broken 4K wallpaper](previews/windows-is-broken-4k-preview.jpg) | ![Excalitux 4K wallpaper](previews/excalitux-4k-preview.jpg) | |
-| [`tux-mug-4k.png`](tux-mug-4k.png) | [`windows-is-broken-4k.png`](windows-is-broken-4k.png) | [`excalitux-4k.png`](excalitux-4k.png) | |
+| ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | ![Windows is Broken 4K wallpaper](previews/windows-is-broken-4k-preview.jpg) | ![Excalitux 4K wallpaper](previews/excalitux-4k-preview.jpg) | ![Sunset Dreamer 4K wallpaper](previews/sunset-dreamer-4k-preview.jpg) |
+| [`tux-mug-4k.png`](tux-mug-4k.png) | [`windows-is-broken-4k.png`](windows-is-broken-4k.png) | [`excalitux-4k.png`](excalitux-4k.png) | [`sunset-dreamer-4k.png`](sunset-dreamer-4k.png) |
 
 ## Wallpapers
 
@@ -171,6 +171,17 @@ Cinzel, top right.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Sunset Dreamer
+
+A red-haired anime traveler with headphones and a Tux-charm backpack ("I ❤
+LINUX" pin) sits on a cherry-blossom ridge at blue-hour sunset, watching
+shooting stars streak over Mt. Fuji and a lakeside town. `agundur.de`
+watermark in Poppins, top right.
+
+- File: `sunset-dreamer-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -189,7 +200,10 @@ street wallpaper, floating islands wallpaper, fantasy wallpaper, coffee
 wallpaper, cozy wallpaper, mug wallpaper, broken glass wallpaper, shattered
 screen wallpaper, tux vs windows wallpaper, funny linux wallpaper, monolith
 wallpaper, lake wallpaper, fantasy wallpaper, arthurian wallpaper, excalibur
-wallpaper, blue hour wallpaper, minimalist wallpaper
+wallpaper, blue hour wallpaper, minimalist wallpaper, anime girl wallpaper,
+cherry blossom wallpaper, sakura wallpaper, Mt Fuji wallpaper, shooting star
+wallpaper, sunset wallpaper, Japan wallpaper, headphones wallpaper, travel
+wallpaper
 
 ## More from Agundur
 
