@@ -26,6 +26,11 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 | ![Tux Mug 4K wallpaper](previews/tux-mug-4k-preview.jpg) | ![Windows is Broken 4K wallpaper](previews/windows-is-broken-4k-preview.jpg) | ![Excalitux 4K wallpaper](previews/excalitux-4k-preview.jpg) | ![Sunset Dreamer 4K wallpaper](previews/sunset-dreamer-4k-preview.jpg) |
 | [`tux-mug-4k.png`](tux-mug-4k.png) | [`windows-is-broken-4k.png`](windows-is-broken-4k.png) | [`excalitux-4k.png`](excalitux-4k.png) | [`sunset-dreamer-4k.png`](sunset-dreamer-4k.png) |
 
+| | | | |
+|---|---|---|---|
+| ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | | | |
+| [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | | | |
+
 ## Wallpapers
 
 ### Cyborg Tiger — KDE Plasma
@@ -182,6 +187,17 @@ watermark in Poppins, top right.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Der Pfad des Pinguins
+
+A samurai woman at blue-hour sunset on a cherry-blossom hillside overlooking
+Mt. Fuji, katana over her shoulder, a Tux tattoo on her bare shoulder and
+"企鵝之道" ("Der Pfad des Pinguins" / "The Way of the Penguin") embroidered
+on her kimono. `agundur.de` watermark in Poppins, top right.
+
+- File: `der-pfad-des-pinguins-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -203,7 +219,9 @@ wallpaper, lake wallpaper, fantasy wallpaper, arthurian wallpaper, excalibur
 wallpaper, blue hour wallpaper, minimalist wallpaper, anime girl wallpaper,
 cherry blossom wallpaper, sakura wallpaper, Mt Fuji wallpaper, shooting star
 wallpaper, sunset wallpaper, Japan wallpaper, headphones wallpaper, travel
-wallpaper
+wallpaper, samurai wallpaper, katana wallpaper, kimono wallpaper, penguin
+tattoo wallpaper, tux tattoo wallpaper, blue hour wallpaper, japanese
+calligraphy wallpaper
 
 ## More from Agundur
 
