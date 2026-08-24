@@ -28,8 +28,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | | | |
-| [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | | | |
+| ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | ![Wayfarer 4K wallpaper](previews/wayfarer-4k-preview.jpg) | | |
+| [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | [`wayfarer-4k.png`](wayfarer-4k.png) | | |
 
 ## Wallpapers
 
@@ -198,6 +198,16 @@ on her kimono. `agundur.de` watermark in Poppins, top right.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Wayfarer
+
+A weary Tux hiker resting at a stone well in a foggy, moody Scottish Highlands
+valley, hiking poles and backpack in hand. `agundur.de` watermark in Open Sans,
+bottom right.
+
+- File: `wayfarer-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -221,7 +231,8 @@ cherry blossom wallpaper, sakura wallpaper, Mt Fuji wallpaper, shooting star
 wallpaper, sunset wallpaper, Japan wallpaper, headphones wallpaper, travel
 wallpaper, samurai wallpaper, katana wallpaper, kimono wallpaper, penguin
 tattoo wallpaper, tux tattoo wallpaper, blue hour wallpaper, japanese
-calligraphy wallpaper
+calligraphy wallpaper, hiking wallpaper, highlands wallpaper, moody
+wallpaper, foggy mountain wallpaper, scotland wallpaper, wanderer wallpaper
 
 ## More from Agundur
 
