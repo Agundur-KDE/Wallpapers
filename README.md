@@ -4,6 +4,9 @@ Free 4K desktop wallpapers (3840×2160) for **KDE Plasma**, **Linux**, and gener
 desktop use — built by [Agundur](https://www.agundur.de). Each wallpaper is a
 ready-to-use PNG at full 4K resolution, no upscaling.
 
+💬 [Vote for your favorite](https://github.com/Agundur-KDE/Wallpapers/discussions/1) · 💡 [Suggest a new motif](https://github.com/Agundur-KDE/Wallpapers/discussions/2)
+(get credited in the README if we build it)
+
 ## Preview
 
 | | | | |
