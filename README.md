@@ -31,8 +31,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | ![Wayfarer 4K wallpaper](previews/wayfarer-4k-preview.jpg) | | |
-| [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | [`wayfarer-4k.png`](wayfarer-4k.png) | | |
+| ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | ![Wayfarer 4K wallpaper](previews/wayfarer-4k-preview.jpg) | ![35 Years of Linux 4K wallpaper](previews/35-years-linux-4k-preview.jpg) | |
+| [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | [`wayfarer-4k.png`](wayfarer-4k.png) | [`35-years-linux-4k.png`](35-years-linux-4k.png) | |
 
 ## Wallpapers
 
@@ -211,6 +211,17 @@ bottom right.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### 35 Years of Linux
+
+Tux in a party hat sitting beside a birthday cake with 7 candles and a
+"Kernel" cake topper, a freshly opened gift box and a Tux mug nearby, dark
+minimalist studio scene with Tux-print balloons — celebrating Linux's 35th
+birthday. `agundur.de` watermark in Poppins, top right.
+
+- File: `35-years-linux-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -235,7 +246,9 @@ wallpaper, sunset wallpaper, Japan wallpaper, headphones wallpaper, travel
 wallpaper, samurai wallpaper, katana wallpaper, kimono wallpaper, penguin
 tattoo wallpaper, tux tattoo wallpaper, blue hour wallpaper, japanese
 calligraphy wallpaper, hiking wallpaper, highlands wallpaper, moody
-wallpaper, foggy mountain wallpaper, scotland wallpaper, wanderer wallpaper
+wallpaper, foggy mountain wallpaper, scotland wallpaper, wanderer wallpaper, linux
+birthday wallpaper, linux anniversary wallpaper, kernel wallpaper, birthday
+cake wallpaper, party wallpaper, tux birthday wallpaper
 
 ## More from Agundur
 
