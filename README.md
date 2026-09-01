@@ -31,8 +31,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | ![Wayfarer 4K wallpaper](previews/wayfarer-4k-preview.jpg) | ![35 Years of Linux 4K wallpaper](previews/35-years-linux-4k-preview.jpg) | |
-| [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | [`wayfarer-4k.png`](wayfarer-4k.png) | [`35-years-linux-4k.png`](35-years-linux-4k.png) | |
+| ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | ![Wayfarer 4K wallpaper](previews/wayfarer-4k-preview.jpg) | ![35 Years of Linux 4K wallpaper](previews/35-years-linux-4k-preview.jpg) | ![Linux Gaming 4K wallpaper](previews/linux-gaming-4k-preview.jpg) |
+| [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | [`wayfarer-4k.png`](wayfarer-4k.png) | [`35-years-linux-4k.png`](35-years-linux-4k.png) | [`linux-gaming-4k.png`](linux-gaming-4k.png) |
 
 ## Wallpapers
 
@@ -222,6 +222,16 @@ birthday. `agundur.de` watermark in Poppins, top right.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Linux Gaming
+
+Tux, sword and shield in hand, faces down a dragon guarding a mountaintop
+castle at dusk — a "Linux Gaming" title treatment top left. `agundur.de`
+watermark in Poppins, bottom right.
+
+- File: `linux-gaming-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -248,7 +258,9 @@ tattoo wallpaper, tux tattoo wallpaper, blue hour wallpaper, japanese
 calligraphy wallpaper, hiking wallpaper, highlands wallpaper, moody
 wallpaper, foggy mountain wallpaper, scotland wallpaper, wanderer wallpaper, linux
 birthday wallpaper, linux anniversary wallpaper, kernel wallpaper, birthday
-cake wallpaper, party wallpaper, tux birthday wallpaper
+cake wallpaper, party wallpaper, tux birthday wallpaper, linux gaming
+wallpaper, dragon wallpaper, tux sword wallpaper, fantasy castle wallpaper,
+knight wallpaper, gamer wallpaper
 
 ## More from Agundur
 
