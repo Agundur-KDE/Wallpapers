@@ -34,6 +34,11 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 | ![Der Pfad des Pinguins 4K wallpaper](previews/der-pfad-des-pinguins-4k-preview.jpg) | ![Wayfarer 4K wallpaper](previews/wayfarer-4k-preview.jpg) | ![35 Years of Linux 4K wallpaper](previews/35-years-linux-4k-preview.jpg) | ![Linux Gaming 4K wallpaper](previews/linux-gaming-4k-preview.jpg) |
 | [`der-pfad-des-pinguins-4k.png`](der-pfad-des-pinguins-4k.png) | [`wayfarer-4k.png`](wayfarer-4k.png) | [`35-years-linux-4k.png`](35-years-linux-4k.png) | [`linux-gaming-4k.png`](linux-gaming-4k.png) |
 
+| | | | |
+|---|---|---|---|
+| ![KDE Universe 4K wallpaper](previews/kde-universe-4k-preview.jpg) | | | |
+| [`kde-universe-4k.png`](kde-universe-4k.png) | | | |
+
 ## Wallpapers
 
 ### Cyborg Tiger — KDE Plasma
@@ -232,6 +237,17 @@ watermark in Poppins, bottom right.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### KDE Universe
+
+A blue-glowing hex-patterned planet and crescent moon rising over a
+mountain lake at blue hour, milky-way galaxy arm overhead, the KDE Plasma
+logo and "Your Desktop Your Universe" tagline reflected on the water.
+`agundur.de` watermark in Poppins, top right.
+
+- File: `kde-universe-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -260,7 +276,10 @@ wallpaper, foggy mountain wallpaper, scotland wallpaper, wanderer wallpaper, lin
 birthday wallpaper, linux anniversary wallpaper, kernel wallpaper, birthday
 cake wallpaper, party wallpaper, tux birthday wallpaper, linux gaming
 wallpaper, dragon wallpaper, tux sword wallpaper, fantasy castle wallpaper,
-knight wallpaper, gamer wallpaper
+knight wallpaper, gamer wallpaper, kde universe wallpaper, planet wallpaper,
+hexagon planet wallpaper, moon wallpaper, milky way wallpaper, galaxy
+wallpaper, mountain lake wallpaper, blue hour wallpaper, space wallpaper,
+sci-fi wallpaper
 
 ## More from Agundur
 
