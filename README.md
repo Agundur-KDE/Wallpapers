@@ -36,8 +36,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![KDE Universe 4K wallpaper](previews/kde-universe-4k-preview.jpg) | | | |
-| [`kde-universe-4k.png`](kde-universe-4k.png) | | | |
+| ![KDE Universe 4K wallpaper](previews/kde-universe-4k-preview.jpg) | ![Giordano Bruno II 4K wallpaper](previews/giordano-bruno-ii-4k-preview.jpg) | | |
+| [`kde-universe-4k.png`](kde-universe-4k.png) | [`giordano-bruno-ii-4k.png`](giordano-bruno-ii-4k.png) | | |
 
 ## Wallpapers
 
@@ -248,6 +248,17 @@ logo and "Your Desktop Your Universe" tagline reflected on the water.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### Giordano Bruno II
+
+Giordano Bruno stands alone on a stone balcony overlooking a fog-veiled
+Renaissance city at night, a book resting on the balustrade, gazing up at
+the Milky Way arching over the skyline. `agundur.de` watermark in Cormorant
+Garamond, top right.
+
+- File: `giordano-bruno-ii-4k.png`
+- Resolution: 3840×2160
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -279,7 +290,9 @@ wallpaper, dragon wallpaper, tux sword wallpaper, fantasy castle wallpaper,
 knight wallpaper, gamer wallpaper, kde universe wallpaper, planet wallpaper,
 hexagon planet wallpaper, moon wallpaper, milky way wallpaper, galaxy
 wallpaper, mountain lake wallpaper, blue hour wallpaper, space wallpaper,
-sci-fi wallpaper
+sci-fi wallpaper, giordano bruno wallpaper, renaissance wallpaper,
+florence wallpaper, balcony wallpaper, stargazer wallpaper, night sky
+wallpaper, philosopher wallpaper, italy wallpaper
 
 ## More from Agundur
 
