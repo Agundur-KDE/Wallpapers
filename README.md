@@ -2,7 +2,8 @@
 
 Free 4K desktop wallpapers (3840×2160) for **KDE Plasma**, **Linux**, and general
 desktop use — built by [Agundur](https://www.agundur.de). Each wallpaper is a
-ready-to-use PNG at full 4K resolution, no upscaling.
+ready-to-use PNG at full 4K resolution, no upscaling. South Pole also includes
+a 5K (5120×2880) version for high-density displays.
 
 💬 [Vote for your favorite](https://github.com/Agundur-KDE/Wallpapers/discussions/1) · 💡 [Suggest a new motif](https://github.com/Agundur-KDE/Wallpapers/discussions/2)
 (get credited in the README if we build it)
@@ -36,8 +37,8 @@ ready-to-use PNG at full 4K resolution, no upscaling.
 
 | | | | |
 |---|---|---|---|
-| ![KDE Universe 4K wallpaper](previews/kde-universe-4k-preview.jpg) | ![Giordano Bruno II 4K wallpaper](previews/giordano-bruno-ii-4k-preview.jpg) | | |
-| [`kde-universe-4k.png`](kde-universe-4k.png) | [`giordano-bruno-ii-4k.png`](giordano-bruno-ii-4k.png) | | |
+| ![KDE Universe 4K wallpaper](previews/kde-universe-4k-preview.jpg) | ![Giordano Bruno II 4K wallpaper](previews/giordano-bruno-ii-4k-preview.jpg) | ![South Pole 4K wallpaper](previews/south-pole-4k-preview.jpg) | |
+| [`kde-universe-4k.png`](kde-universe-4k.png) | [`giordano-bruno-ii-4k.png`](giordano-bruno-ii-4k.png) | [4K](south-pole-4k.png) · [5K / Retina](south-pole-5k.png) | |
 
 ## Wallpapers
 
@@ -259,6 +260,17 @@ Garamond, top right.
 - Resolution: 3840×2160
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
+### South Pole
+
+A penguin perched on crystalline Antarctic ice beneath sweeping purple,
+blue, and golden auroras, with open night sky on the left for desktop icons.
+Subtle `Agundur.de` watermark in Poppins, top right. Both versions are
+downsampled from the original artwork without upscaling.
+
+- File: [south-pole-4k.png](south-pole-4k.png) — 3840×2160
+- High-density version: [south-pole-5k.png](south-pole-5k.png) — 5120×2880
+- License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ## Usage
 
 Download any PNG above and set it as your desktop background — works on KDE
@@ -292,7 +304,9 @@ hexagon planet wallpaper, moon wallpaper, milky way wallpaper, galaxy
 wallpaper, mountain lake wallpaper, blue hour wallpaper, space wallpaper,
 sci-fi wallpaper, giordano bruno wallpaper, renaissance wallpaper,
 florence wallpaper, balcony wallpaper, stargazer wallpaper, night sky
-wallpaper, philosopher wallpaper, italy wallpaper
+wallpaper, philosopher wallpaper, italy wallpaper, south pole wallpaper,
+antarctica wallpaper, aurora wallpaper, polar lights wallpaper, penguin
+wallpaper, ice wallpaper, 5k wallpaper, retina wallpaper
 
 ## More from Agundur
 
